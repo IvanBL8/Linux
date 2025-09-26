@@ -14,14 +14,3 @@
 11. [Configuración de red](#configuración-de-red)
 12. [Autor](#autor)
 
----
-
-## Nombre del host
-
-### Comandos:
-```bash
-hostname
-hostname -I
-hostname -f
-hostnamectl
-cat /etc/hostname
