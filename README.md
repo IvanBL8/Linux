@@ -1,7 +1,7 @@
 # Conociendo el sistema Linux
 
 ## Índice
-1. ![Nombre del host](nombre-del-host)
+1. ![Nombre del host](nombre-del-Host)
 2. [Versión del sistema](#versión-del-sistema)
 3. [Versión del núcleo y arquitectura](#versión-del-núcleo-y-arquitectura)
 4. [Memoria RAM](#memoria-ram)
