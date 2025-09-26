@@ -1,0 +1,9 @@
+## Nombre del host
+
+### Comandos:
+```bash
+hostname
+hostname -I
+hostname -f
+hostnamectl
+cat /etc/hostname
