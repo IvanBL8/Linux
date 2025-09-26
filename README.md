@@ -2,8 +2,8 @@
 
 ## Índice
 1.  ![Nombre del host](Nombre-del-Host)
-2.  ![Versión del sistema](versión-del-sistema)
-3.  ![Versión del núcleo y arquitectura](versión-del-núcleo-y-arquitectura)
+2.  ![Versión del sistema](version-del-sistema)
+3.  ![Versión del núcleo y arquitectura](version-del-núcleo-y-arquitectura)
 4.  ![Memoria RAM](memoria-ram)
 5.  ![CPU](cpu)
 6.  ![Discos y particiones](discos-y-particiones)
