@@ -10,7 +10,7 @@
 7.  ![Sistemas montados](sistemas-montados)
 8.  ![Tamaño de carpetas](tamaño-de-carpetas)
 9.  ![Usuarios y grupos](usuarios-y-grupos)
-10. ![Información de la red](información-de-la-red)
-11. ![Configuración de red](configuración-de-red)
+10. ![Información de la red](informacion-de-la-red)
+11. ![Configuración de red](configuracion-de-red)
 12. ![Autor](autor)
 
