@@ -5,3 +5,5 @@ lsb_release -a
 cat /etc/os-release
 
 cat /etc/debian_version
+
+![VS](img/VersionSistema.png)
