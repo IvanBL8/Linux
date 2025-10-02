@@ -9,5 +9,5 @@ hostnamectl
 cat /etc/hostname
 
 
-![Hostname](img/Hostname.png)
-![Hostname](img/Hostname2.png)
+![Hostname](/img/Hostname.png)
+![Hostname2](/img/Hostname2.png)
