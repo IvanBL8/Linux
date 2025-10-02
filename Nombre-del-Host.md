@@ -3,9 +3,13 @@
 ### Comandos:
 
 hostname
+
 hostname -I
+
 hostname -f
+
 hostnamectl
+
 cat /etc/hostname
 
 
