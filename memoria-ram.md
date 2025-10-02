@@ -1,4 +1,5 @@
 ## Memoria RAM
 
 free
+
 free -h
