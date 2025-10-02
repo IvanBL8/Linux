@@ -1,4 +1,5 @@
 ## Version del Núcleo y Arquitectura
 
 uname -a
+
 uname -r
