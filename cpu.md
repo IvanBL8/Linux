@@ -1,4 +1,5 @@
 ## 5. CPU
   
 lscpu
+
 nproc
