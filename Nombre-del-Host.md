@@ -1,7 +1,7 @@
 ## Nombre del host
 
 ### Comandos:
-```bash
+
 hostname
 hostname -I
 hostname -f
