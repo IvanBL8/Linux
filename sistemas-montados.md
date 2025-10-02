@@ -3,3 +3,5 @@
 df -h
 
 df -hT
+
+![Sm](img/SistemasMontados.png)
