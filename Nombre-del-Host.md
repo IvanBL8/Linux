@@ -1,4 +1,3 @@
-# Nombre del host
 ## Nombre del host
 
 ### Comandos:
