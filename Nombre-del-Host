@@ -1,6 +1,6 @@
-## Nombre del host
+##Nombre del host
 
-### Comandos:
+###Comandos:
 ```bash
 hostname
 hostname -I
