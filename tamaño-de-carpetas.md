@@ -3,3 +3,5 @@
 du -hs /home
 
 du -hs /home/*
+
+![TMÑ](img/TamañoCarpeta.png)
