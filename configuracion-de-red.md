@@ -9,3 +9,5 @@ systemctl status networking
 sudo systemctl restart networking
 
 sudo ifdown eth0 && sudo ifup eth0
+
+![CONF](img/ConfRed.png)
