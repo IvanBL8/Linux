@@ -3,3 +3,5 @@
 uname -a
 
 uname -r
+
+![VN](img/VersionNucleo.png)
