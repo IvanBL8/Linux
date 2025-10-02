@@ -5,3 +5,5 @@ lsblk
 lsblk -f
 
 sudo fdisk -l
+
+![DISC](img/Discos.png)
